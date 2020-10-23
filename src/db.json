@@ -1,0 +1,8 @@
+{
+    "products": [
+      { "idProduct": "1", "productName": "Kitty Litter", "price": "200000", "stock": 24}
+    ],
+    "productImage": [
+      { "idProductImage": "1", "idProduct": "1", "urlImage": "https://images.unsplash.com/photo-1599163005967-78b6c6c1495a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80" }
+    ]
+  }
